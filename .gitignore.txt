@@ -1,4 +1,4 @@
-test-output/**
-bin/**
+ApiAutomation/test-output/**
+ApiAutomation/bin/**
 .classpath
 *.class
